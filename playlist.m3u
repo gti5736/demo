@@ -5,3 +5,5 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-WinSports + (1080)(M)
+http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/23129
